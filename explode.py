@@ -8,13 +8,11 @@ def main():
     output = sys.argv[2]
     spellsFile = open(spellsPath)
     spells = json.load(spellsFile, object_pairs_hook=collections.OrderedDict)
-    print(spells)
 
     if not os.path.exists(output):
         os.makedirs(output)
     
     for spell in spells:
-        print(spell)
         spellName = spell[u'name'].replace('/', '%2F')
         fileName = output + spellName + '.json'
         spellFile = open(fileName, 'w+')
