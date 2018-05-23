@@ -13,7 +13,7 @@ def main():
         os.makedirs(output)
     
     for spell in spells:
-        spellName = spell[u'name'].replace('/', '%2F')
+        spellName = spell[u'name'].replace('/', '&2F')
         fileName = output + spellName + '.json'
         spellFile = open(fileName, 'w+')
 

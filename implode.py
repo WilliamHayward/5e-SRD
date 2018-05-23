@@ -10,7 +10,7 @@ def main():
     spellNames.sort()
     spells = []
     for spellName in spellNames:
-        name = spellName.replace('%2F', '/')
+        name = spellName.replace('&2F', '/')
         spellFile = open(spellsPath + spellName)
         spells.append(json.load(spellFile, object_pairs_hook=collections.OrderedDict))
 
