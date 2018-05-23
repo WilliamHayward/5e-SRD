@@ -1,1 +1,17 @@
-{"name": "Magic Weapon", "desc": "<p>You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.</p>", "higher_level": "<p>When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.</p>", "page": "phb 257", "range": "Touch", "components": "V, S", "ritual": "no", "duration": "Up to 1 hour", "concentration": "yes", "casting_time": "1 bonus action", "level": "2nd-level", "school": "Transmutation", "class": "Cleric, Paladin, Wizard", "archetype": "Cleric: War", "domains": "War"}
+{
+    "name": "Magic Weapon",
+    "desc": "<p>You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.</p>",
+    "higher_level": "<p>When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.</p>",
+    "page": "phb 257",
+    "range": "Touch",
+    "components": "V, S",
+    "ritual": "no",
+    "duration": "Up to 1 hour",
+    "concentration": "yes",
+    "casting_time": "1 bonus action",
+    "level": "2nd-level",
+    "school": "Transmutation",
+    "class": "Cleric, Paladin, Wizard",
+    "archetype": "Cleric: War",
+    "domains": "War"
+}

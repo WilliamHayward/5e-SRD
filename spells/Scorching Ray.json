@@ -1,1 +1,18 @@
-{"name": "Scorching Ray", "desc": "<p>You generate three rays of fire and will throw to targets in the range of the spell. You can project them on one or more targets.</p><p>Perform a remote attack spell for each department. If it hits, the target takes 2d6 fire damage.</p>", "higher_level": "<p>When you cast this spell using a 3 or higher level spell slot, you generate an additional radius for each level of higher spell slot 2.</p>", "page": "phb 273", "range": "120 feet", "components": "V, S", "ritual": "no", "duration": "Instantaneous", "concentration": "no", "casting_time": "1 action", "level": "2nd-level", "school": "Evocation", "class": "Cleric, Sorcerer, Warlock, Wizard", "archetype": "Cleric: Light<br/> Warlock: Fiend", "domains": "Light", "patrons": "Fiend"}
+{
+    "name": "Scorching Ray",
+    "desc": "<p>You generate three rays of fire and will throw to targets in the range of the spell. You can project them on one or more targets.</p><p>Perform a remote attack spell for each department. If it hits, the target takes 2d6 fire damage.</p>",
+    "higher_level": "<p>When you cast this spell using a 3 or higher level spell slot, you generate an additional radius for each level of higher spell slot 2.</p>",
+    "page": "phb 273",
+    "range": "120 feet",
+    "components": "V, S",
+    "ritual": "no",
+    "duration": "Instantaneous",
+    "concentration": "no",
+    "casting_time": "1 action",
+    "level": "2nd-level",
+    "school": "Evocation",
+    "class": "Cleric, Sorcerer, Warlock, Wizard",
+    "archetype": "Cleric: Light<br/> Warlock: Fiend",
+    "domains": "Light",
+    "patrons": "Fiend"
+}

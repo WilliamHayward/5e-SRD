@@ -1,1 +1,17 @@
-{"name": "Greater Invisibility", "desc": "<p>You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target\u2019s person.</p>", "page": "phb 246", "range": "Touch", "components": "V, S", "ritual": "no", "duration": "Up to 1 minute", "concentration": "yes", "casting_time": "1 action", "level": "4th-level", "school": "Illusion", "class": "Bard, Druid, Sorcerer, Warlock, Wizard", "archetype": "Druid: Underdark<br/> Warlock: Archfey", "circles": "Underdark", "patrons": "Archfey"}
+{
+    "name": "Greater Invisibility",
+    "desc": "<p>You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target\u2019s person.</p>",
+    "page": "phb 246",
+    "range": "Touch",
+    "components": "V, S",
+    "ritual": "no",
+    "duration": "Up to 1 minute",
+    "concentration": "yes",
+    "casting_time": "1 action",
+    "level": "4th-level",
+    "school": "Illusion",
+    "class": "Bard, Druid, Sorcerer, Warlock, Wizard",
+    "archetype": "Druid: Underdark<br/> Warlock: Archfey",
+    "circles": "Underdark",
+    "patrons": "Archfey"
+}

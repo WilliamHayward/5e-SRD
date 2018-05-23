@@ -1,1 +1,15 @@
-{"name": "Jump", "desc": "<p>You touch a creature. The creature\u2019s jump distance is tripled until the spell ends.</p>", "page": "phb 254", "range": "Touch", "components": "V, S, M", "material": "A grasshopper\u2019s hind leg.", "ritual": "no", "duration": "1 minute", "concentration": "no", "casting_time": "1 action", "level": "1st-level", "school": "Transmutation", "class": "Druid, Ranger, Sorcerer, Wizard"}
+{
+    "name": "Jump",
+    "desc": "<p>You touch a creature. The creature\u2019s jump distance is tripled until the spell ends.</p>",
+    "page": "phb 254",
+    "range": "Touch",
+    "components": "V, S, M",
+    "material": "A grasshopper\u2019s hind leg.",
+    "ritual": "no",
+    "duration": "1 minute",
+    "concentration": "no",
+    "casting_time": "1 action",
+    "level": "1st-level",
+    "school": "Transmutation",
+    "class": "Druid, Ranger, Sorcerer, Wizard"
+}

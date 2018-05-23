@@ -4,7 +4,6 @@ import json
 import collections
 # Usage: `explode.py [input file] [output folder]`
 def main():
-    print(sys.argv)
     spellsPath = sys.argv[1]
     output = sys.argv[2]
     spellsFile = open(spellsPath)
@@ -17,8 +16,10 @@ def main():
     for spell in spells:
         print(spell)
         spellName = spell[u'name'].replace('/', '%2F')
-        spellFile = open(output + spellName + '.json', 'w+')
-        json.dump(spell, spellFile)
+        fileName = output + spellName + '.json'
+        spellFile = open(fileName, 'w+')
+
+        json.dump(spell, spellFile, indent=4)
 
 if __name__ == "__main__":
     main()
