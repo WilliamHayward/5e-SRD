@@ -1,0 +1,15 @@
+{
+    "name": "See Invisibility", 
+    "desc": "<p>For the duration of the spell, you see invisible creatures and objects as if they were visible, and you can see through Ethereal. The ethereal objects and creatures appear ghostly translucent.</p>", 
+    "page": "phb 274", 
+    "range": "Self", 
+    "components": "V, S, M", 
+    "material": "A dash of talc and a small amount of silver powder.", 
+    "ritual": "no", 
+    "duration": "1 hour", 
+    "concentration": "no", 
+    "casting_time": "1 action", 
+    "level": "2nd-level", 
+    "school": "Divination", 
+    "class": "Bard, Sorcerer, Wizard"
+}
