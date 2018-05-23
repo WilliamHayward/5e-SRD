@@ -15,12 +15,14 @@
     "intelligence": 13,
     "wisdom": 11,
     "charisma": 10,
+    "skills": {
+        "acrobatics": 6,
+        "stealth": 9,
+        "perception": 3,
+        "deception": 3
+    },
     "dexterity_save": 6,
     "intelligence_save": 4,
-    "acrobatics": 6,
-    "deception": 3,
-    "perception": 3,
-    "stealth": 9,
     "damage_vulnerabilities": "",
     "damage_resistances": "poison",
     "damage_immunities": "",

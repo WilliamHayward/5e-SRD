@@ -15,10 +15,12 @@
     "intelligence": 18,
     "wisdom": 18,
     "charisma": 18,
-    "arcana": 12,
-    "history": 12,
-    "perception": 8,
-    "religion": 8,
+    "skills": {
+        "arcana": 12,
+        "history": 12,
+        "religion": 8,
+        "perception": 8
+    },
     "damage_vulnerabilities": "",
     "damage_resistances": "bludgeoning, piercing, and slashing from nonmagical weapons",
     "damage_immunities": "psychic",

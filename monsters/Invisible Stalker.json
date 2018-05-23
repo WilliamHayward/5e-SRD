@@ -15,8 +15,10 @@
     "intelligence": 10,
     "wisdom": 15,
     "charisma": 11,
-    "perception": 8,
-    "stealth": 10,
+    "skills": {
+        "stealth": 10,
+        "perception": 8
+    },
     "damage_vulnerabilities": "",
     "damage_resistances": "bludgeoning, piercing, and slashing from nonmagical weapons",
     "damage_immunities": "poison",

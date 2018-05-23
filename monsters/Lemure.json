@@ -15,6 +15,7 @@
     "intelligence": 1,
     "wisdom": 11,
     "charisma": 3,
+    "skills": {},
     "damage_vulnerabilities": "",
     "damage_resistances": "cold",
     "damage_immunities": "fire, poison",

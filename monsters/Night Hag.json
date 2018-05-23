@@ -15,10 +15,12 @@
     "intelligence": 16,
     "wisdom": 14,
     "charisma": 16,
-    "deception": 7,
-    "insight": 6,
-    "perception": 6,
-    "stealth": 6,
+    "skills": {
+        "stealth": 6,
+        "insight": 6,
+        "perception": 6,
+        "deception": 7
+    },
     "damage_vulnerabilities": "",
     "damage_resistances": "cold, fire; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",
     "damage_immunities": "",

@@ -15,11 +15,13 @@
     "intelligence": 13,
     "wisdom": 14,
     "charisma": 16,
+    "skills": {
+        "insight": 6,
+        "deception": 7
+    },
     "intelligence_save": 5,
     "wisdom_save": 6,
     "charisma_save": 7,
-    "deception": 7,
-    "insight": 6,
     "damage_vulnerabilities": "",
     "damage_resistances": "cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered",
     "damage_immunities": "fire, poison",

@@ -15,9 +15,11 @@
     "intelligence": 13,
     "wisdom": 16,
     "charisma": 13,
-    "medicine": 7,
-    "persuasion": 3,
-    "religion": 4,
+    "skills": {
+        "religion": 4,
+        "medicine": 7,
+        "persuasion": 3
+    },
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "",

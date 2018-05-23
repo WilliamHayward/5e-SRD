@@ -15,7 +15,9 @@
     "intelligence": 13,
     "wisdom": 12,
     "charisma": 14,
-    "stealth": 5,
+    "skills": {
+        "stealth": 5
+    },
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "",

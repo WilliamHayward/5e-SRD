@@ -15,11 +15,13 @@
     "intelligence": 10,
     "wisdom": 12,
     "charisma": 9,
+    "skills": {
+        "athletics": 12,
+        "perception": 4
+    },
     "dexterity_save": 5,
     "constitution_save": 8,
     "wisdom_save": 4,
-    "athletics": 12,
-    "perception": 4,
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "",

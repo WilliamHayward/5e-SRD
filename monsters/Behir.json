@@ -15,8 +15,10 @@
     "intelligence": 7,
     "wisdom": 14,
     "charisma": 12,
-    "perception": 6,
-    "stealth": 7,
+    "skills": {
+        "stealth": 7,
+        "perception": 6
+    },
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "lightning",

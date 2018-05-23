@@ -15,11 +15,13 @@
     "intelligence": 18,
     "wisdom": 15,
     "charisma": 18,
+    "skills": {
+        "history": 12,
+        "perception": 10
+    },
     "constitution_save": 6,
     "intelligence_save": 8,
     "wisdom_save": 6,
-    "history": 12,
-    "perception": 10,
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "",

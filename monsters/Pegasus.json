@@ -15,10 +15,12 @@
     "intelligence": 10,
     "wisdom": 15,
     "charisma": 13,
+    "skills": {
+        "perception": 6
+    },
     "dexterity_save": 4,
     "wisdom_save": 4,
     "charisma_save": 3,
-    "perception": 6,
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "",

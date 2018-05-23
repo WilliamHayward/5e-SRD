@@ -15,8 +15,10 @@
     "intelligence": 13,
     "wisdom": 16,
     "charisma": 20,
-    "deception": 10,
-    "insight": 8,
+    "skills": {
+        "insight": 8,
+        "deception": 10
+    },
     "damage_vulnerabilities": "piercing from magic weapons wielded by good creatures",
     "damage_resistances": "",
     "damage_immunities": "bludgeoning, piercing, and slashing from nonmagical weapons",

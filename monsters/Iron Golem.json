@@ -15,6 +15,7 @@
     "intelligence": 3,
     "wisdom": 11,
     "charisma": 1,
+    "skills": {},
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine",

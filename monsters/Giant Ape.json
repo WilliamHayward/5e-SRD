@@ -15,8 +15,10 @@
     "intelligence": 7,
     "wisdom": 12,
     "charisma": 7,
-    "athletics": 9,
-    "perception": 4,
+    "skills": {
+        "athletics": 9,
+        "perception": 4
+    },
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "",

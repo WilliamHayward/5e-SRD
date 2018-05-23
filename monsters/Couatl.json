@@ -15,6 +15,7 @@
     "intelligence": 18,
     "wisdom": 20,
     "charisma": 18,
+    "skills": {},
     "constitution_save": 5,
     "wisdom_save": 7,
     "charisma_save": 6,

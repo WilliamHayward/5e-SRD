@@ -15,10 +15,12 @@
     "intelligence": 11,
     "wisdom": 10,
     "charisma": 12,
+    "skills": {
+        "stealth": 6,
+        "perception": 3
+    },
     "dexterity_save": 6,
     "wisdom_save": 3,
-    "perception": 3,
-    "stealth": 6,
     "damage_vulnerabilities": "",
     "damage_resistances": "necrotic; bludgeoning, piercing, and slashing from nonmagical weapons",
     "damage_immunities": "",

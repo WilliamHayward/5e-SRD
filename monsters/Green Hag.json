@@ -15,10 +15,12 @@
     "intelligence": 13,
     "wisdom": 14,
     "charisma": 14,
-    "arcana": 3,
-    "deception": 4,
-    "perception": 4,
-    "stealth": 3,
+    "skills": {
+        "stealth": 3,
+        "arcana": 3,
+        "perception": 4,
+        "deception": 4
+    },
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "",

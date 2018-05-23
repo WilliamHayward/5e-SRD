@@ -15,12 +15,14 @@
     "intelligence": 16,
     "wisdom": 15,
     "charisma": 19,
+    "skills": {
+        "stealth": 9,
+        "perception": 16
+    },
     "dexterity_save": 9,
     "constitution_save": 14,
     "wisdom_save": 9,
     "charisma_save": 11,
-    "perception": 16,
-    "stealth": 9,
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "acid",

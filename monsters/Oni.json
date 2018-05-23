@@ -15,13 +15,15 @@
     "intelligence": 14,
     "wisdom": 12,
     "charisma": 15,
+    "skills": {
+        "arcana": 5,
+        "perception": 4,
+        "deception": 8
+    },
     "dexterity_save": 3,
     "constitution_save": 6,
     "wisdom_save": 4,
     "charisma_save": 5,
-    "arcana": 5,
-    "deception": 8,
-    "perception": 4,
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "",

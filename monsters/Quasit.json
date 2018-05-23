@@ -15,7 +15,9 @@
     "intelligence": 7,
     "wisdom": 10,
     "charisma": 10,
-    "stealth": 5,
+    "skills": {
+        "stealth": 5
+    },
     "damage_vulnerabilities": "",
     "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, and slashing from nonmagical weapons",
     "damage_immunities": "poison",

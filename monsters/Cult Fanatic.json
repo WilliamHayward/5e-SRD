@@ -15,9 +15,11 @@
     "intelligence": 10,
     "wisdom": 13,
     "charisma": 14,
-    "deception": 4,
-    "persuasion": 4,
-    "religion": 2,
+    "skills": {
+        "religion": 2,
+        "deception": 4,
+        "persuasion": 4
+    },
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "",

@@ -15,8 +15,10 @@
     "intelligence": 11,
     "wisdom": 10,
     "charisma": 11,
-    "perception": 6,
-    "stealth": 3,
+    "skills": {
+        "stealth": 3,
+        "perception": 6
+    },
     "damage_vulnerabilities": "",
     "damage_resistances": "piercing and slashing from nonmagical weapons that aren't adamantine",
     "damage_immunities": "",

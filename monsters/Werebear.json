@@ -15,7 +15,9 @@
     "intelligence": 11,
     "wisdom": 12,
     "charisma": 12,
-    "perception": 7,
+    "skills": {
+        "perception": 7
+    },
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered",

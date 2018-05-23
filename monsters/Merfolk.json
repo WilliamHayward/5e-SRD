@@ -15,7 +15,9 @@
     "intelligence": 11,
     "wisdom": 11,
     "charisma": 12,
-    "perception": 2,
+    "skills": {
+        "perception": 2
+    },
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "",
