@@ -1,0 +1,40 @@
+\begin{monsterbox}{Ogre Zombie}
+\begin{hangingpar}
+\textit{Large undead, neutral evil}
+\end{hangingpar}
+\dndline%
+\basics[%
+armorclass = 8,
+hitpoints = 9d10 + 36,
+speed = {30 ft.}
+]
+\dndline%
+\stats[%
+STR = \stat{19},
+DEX = \stat{6},
+CON = \stat{18},
+INT = \stat{3},
+WIS = \stat{6},
+CHA = \stat{5}
+]
+\dndline%
+\details[%
+skills={},
+damageimmunities={poison},
+savingthrows={Wis +0, },
+conditionimmunities={poisoned},
+damageresistances={},
+damagevulnerabilities={},
+senses={darkvision 60 ft., passive Perception 8},
+languages={understands Common and Giant but can't speak},
+challenge=2
+]
+\dndline%
+\begin{monsteraction}[Undead Fortitude]
+If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+\end{monsteraction}
+\monstersection{Actions}
+\begin{monsteraction}[Morningstar]
+Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
+\end{monsteraction}
+\end{monsterbox}
