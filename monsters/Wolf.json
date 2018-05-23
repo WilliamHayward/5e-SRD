@@ -15,6 +15,7 @@
     "intelligence": 3,
     "wisdom": 12,
     "charisma": 6,
+    "saving_throws": {},
     "skills": {
         "stealth": 4,
         "perception": 3

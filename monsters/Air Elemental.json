@@ -15,6 +15,7 @@
     "intelligence": 6,
     "wisdom": 10,
     "charisma": 6,
+    "saving_throws": {},
     "skills": {},
     "damage_vulnerabilities": "",
     "damage_resistances": "lightning; thunder; bludgeoning, piercing, and slashing from nonmagical weapons",

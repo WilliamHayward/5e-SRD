@@ -15,6 +15,12 @@
     "intelligence": 20,
     "wisdom": 17,
     "charisma": 19,
+    "saving_throws": {
+        "dexterity": 8,
+        "constitution": 14,
+        "wisdom": 10,
+        "charisma": 11
+    },
     "skills": {
         "stealth": 8,
         "insight": 10,
@@ -22,10 +28,6 @@
         "deception": 11,
         "persuasion": 11
     },
-    "dexterity_save": 8,
-    "constitution_save": 14,
-    "wisdom_save": 10,
-    "charisma_save": 11,
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "poison",

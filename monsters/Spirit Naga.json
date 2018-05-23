@@ -15,11 +15,13 @@
     "intelligence": 16,
     "wisdom": 15,
     "charisma": 16,
+    "saving_throws": {
+        "dexterity": 6,
+        "constitution": 5,
+        "wisdom": 5,
+        "charisma": 6
+    },
     "skills": {},
-    "dexterity_save": 6,
-    "constitution_save": 5,
-    "wisdom_save": 5,
-    "charisma_save": 6,
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "poison",

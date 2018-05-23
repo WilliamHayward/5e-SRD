@@ -15,12 +15,14 @@
     "intelligence": 19,
     "wisdom": 22,
     "charisma": 25,
+    "saving_throws": {
+        "constitution": 12,
+        "wisdom": 11,
+        "charisma": 12
+    },
     "skills": {
         "perception": 11
     },
-    "constitution_save": 12,
-    "wisdom_save": 11,
-    "charisma_save": 12,
     "damage_vulnerabilities": "",
     "damage_resistances": "radiant; bludgeoning, piercing, and slashing from nonmagical weapons",
     "damage_immunities": "",

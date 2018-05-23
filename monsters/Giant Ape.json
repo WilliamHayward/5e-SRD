@@ -15,6 +15,7 @@
     "intelligence": 7,
     "wisdom": 12,
     "charisma": 7,
+    "saving_throws": {},
     "skills": {
         "athletics": 9,
         "perception": 4

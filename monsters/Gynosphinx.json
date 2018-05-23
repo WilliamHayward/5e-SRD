@@ -15,6 +15,7 @@
     "intelligence": 18,
     "wisdom": 18,
     "charisma": 18,
+    "saving_throws": {},
     "skills": {
         "arcana": 12,
         "history": 12,

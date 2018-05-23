@@ -15,10 +15,12 @@
     "intelligence": 8,
     "wisdom": 13,
     "charisma": 8,
+    "saving_throws": {
+        "dexterity": 5,
+        "wisdom": 4,
+        "charisma": 2
+    },
     "skills": {},
-    "dexterity_save": 5,
-    "wisdom_save": 4,
-    "charisma_save": 2,
     "damage_vulnerabilities": "",
     "damage_resistances": "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons",
     "damage_immunities": "poison",

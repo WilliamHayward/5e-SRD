@@ -15,12 +15,14 @@
     "intelligence": 20,
     "wisdom": 15,
     "charisma": 16,
+    "saving_throws": {
+        "intelligence": 9,
+        "wisdom": 6
+    },
     "skills": {
         "arcana": 13,
         "history": 13
     },
-    "intelligence_save": 9,
-    "wisdom_save": 6,
     "damage_vulnerabilities": "",
     "damage_resistances": "damage from spells; non magical bludgeoning, piercing, and slashing (from stoneskin)",
     "damage_immunities": "",

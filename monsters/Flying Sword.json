@@ -15,8 +15,10 @@
     "intelligence": 1,
     "wisdom": 5,
     "charisma": 1,
+    "saving_throws": {
+        "dexterity": 4
+    },
     "skills": {},
-    "dexterity_save": 4,
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "poison, psychic",

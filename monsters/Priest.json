@@ -15,6 +15,7 @@
     "intelligence": 13,
     "wisdom": 16,
     "charisma": 13,
+    "saving_throws": {},
     "skills": {
         "religion": 4,
         "medicine": 7,

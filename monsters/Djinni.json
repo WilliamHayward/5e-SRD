@@ -15,10 +15,12 @@
     "intelligence": 15,
     "wisdom": 16,
     "charisma": 20,
+    "saving_throws": {
+        "dexterity": 6,
+        "wisdom": 7,
+        "charisma": 9
+    },
     "skills": {},
-    "dexterity_save": 6,
-    "wisdom_save": 7,
-    "charisma_save": 9,
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "lightning, thunder",

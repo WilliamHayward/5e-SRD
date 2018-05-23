@@ -15,6 +15,7 @@
     "intelligence": 5,
     "wisdom": 8,
     "charisma": 3,
+    "saving_throws": {},
     "skills": {},
     "damage_vulnerabilities": "",
     "damage_resistances": "cold, fire, lightning",

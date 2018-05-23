@@ -15,9 +15,11 @@
     "intelligence": 11,
     "wisdom": 11,
     "charisma": 15,
+    "saving_throws": {
+        "constitution": 4,
+        "wisdom": 2
+    },
     "skills": {},
-    "constitution_save": 4,
-    "wisdom_save": 2,
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "",

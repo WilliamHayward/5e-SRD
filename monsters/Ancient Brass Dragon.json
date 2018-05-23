@@ -15,16 +15,18 @@
     "intelligence": 16,
     "wisdom": 15,
     "charisma": 19,
+    "saving_throws": {
+        "dexterity": 6,
+        "constitution": 13,
+        "wisdom": 8,
+        "charisma": 10
+    },
     "skills": {
         "stealth": 6,
         "history": 9,
         "perception": 14,
         "persuasion": 10
     },
-    "dexterity_save": 6,
-    "constitution_save": 13,
-    "wisdom_save": 8,
-    "charisma_save": 10,
     "damage_vulnerabilities": "",
     "damage_resistances": "",
     "damage_immunities": "fire",

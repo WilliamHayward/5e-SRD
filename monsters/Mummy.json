@@ -15,8 +15,10 @@
     "intelligence": 6,
     "wisdom": 10,
     "charisma": 12,
+    "saving_throws": {
+        "wisdom": 2
+    },
     "skills": {},
-    "wisdom_save": 2,
     "damage_vulnerabilities": "fire",
     "damage_resistances": "",
     "damage_immunities": "bludgeoning, piercing, and slashing from nonmagical weapons",
