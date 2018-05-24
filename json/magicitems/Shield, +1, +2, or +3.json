@@ -1,0 +1,9 @@
+{
+    "name": "Shield, +1, +2, or +3", 
+    "category": "Armor (shield)", 
+    "rarity": "uncommon (+1), rare (+2), or very rare (+3)", 
+    "attunement": false, 
+    "desc": [
+        "While holding this shield, you have a bonus to AC determined by the shield\u2019s rarity. This bonus is in addition to the shield\u2019s normal bonus to AC."
+    ]
+}

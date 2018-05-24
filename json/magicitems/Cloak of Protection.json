@@ -1,0 +1,9 @@
+{
+    "name": "Cloak of Protection", 
+    "category": "Wondrous item", 
+    "rarity": "uncommon", 
+    "attunement": true, 
+    "desc": [
+        "You gain a +1 bonus to AC and saving throws while you wear this cloak."
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Belt of Giant Strength", 
+    "category": "Wondrous item", 
+    "rarity": "rarity varies", 
+    "attunement": true, 
+    "desc": [
+        "While wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt\u2019s score, the item has no effect on you.", 
+        "Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The *belt of stone giant strength* and the *belt of frost giant strength* look different, but they have the same effect.", 
+        {
+            "table": {
+                "Type": [
+                    "Hill giant", 
+                    "Stone/frost giant", 
+                    "Fire giant", 
+                    "Cloud giant", 
+                    "Storm giant"
+                ], 
+                "Strength": [
+                    "21", 
+                    "23", 
+                    "25", 
+                    "27", 
+                    "29"
+                ], 
+                "Rarity": [
+                    "Rare", 
+                    "Very rare", 
+                    "Very rare", 
+                    "Legendary", 
+                    "Legendary"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Potion of Resistance", 
+    "category": "Potion", 
+    "rarity": "uncommon", 
+    "attunement": false, 
+    "desc": [
+        "When you drink this potion, you gain resistance to one type of damage for 1 hour. The GM chooses the type or determines it randomly from the options below.", 
+        {
+            "table": {
+                "d10": [
+                    "1", 
+                    "2", 
+                    "3", 
+                    "4", 
+                    "5", 
+                    "6", 
+                    "7", 
+                    "8", 
+                    "9", 
+                    "10"
+                ], 
+                "Damage Type": [
+                    "Acid", 
+                    "Cold", 
+                    "Fire", 
+                    "Force", 
+                    "Lightning", 
+                    "Necrotic", 
+                    "Poison", 
+                    "Psychic", 
+                    "Radiant", 
+                    "Thunder"
+                ]
+            }
+        }
+    ]
+}

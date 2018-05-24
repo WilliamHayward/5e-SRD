@@ -1,0 +1,9 @@
+{
+    "name": "Boots of Striding and Springing", 
+    "category": "Wondrous item", 
+    "rarity": "uncommon", 
+    "attunement": true, 
+    "desc": [
+        "While you wear these boots, your walking speed becomes 30 feet, unless your walking speed is higher, and your speed isn\u2019t reduced if you are encumbered or wearing heavy armor. In addition, you can jump three times the normal distance, though you can\u2019t jump farther than your remaining movement would allow."
+    ]
+}

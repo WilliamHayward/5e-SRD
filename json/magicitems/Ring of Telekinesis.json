@@ -1,0 +1,9 @@
+{
+    "name": "Ring of Telekinesis", 
+    "category": "Ring", 
+    "rarity": "very rare", 
+    "attunement": true, 
+    "desc": [
+        "While wearing this ring, you can cast the *telekinesis* spell at will, but you can target only objects that aren\u2019t being worn or carried."
+    ]
+}

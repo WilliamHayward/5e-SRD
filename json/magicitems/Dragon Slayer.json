@@ -1,0 +1,10 @@
+{
+    "name": "Dragon Slayer", 
+    "category": "Weapon (any sword)", 
+    "rarity": "rare", 
+    "attunement": false, 
+    "desc": [
+        "You gain a +1 bonus to attack and damage rolls made with this magic weapon.", 
+        "When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon\u2019s type. For the purpose of this weapon, \u201cdragon\u201d refers to any creature with the dragon type, including dragon turtles and wyverns."
+    ]
+}

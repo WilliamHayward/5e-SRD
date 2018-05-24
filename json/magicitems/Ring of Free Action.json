@@ -1,0 +1,9 @@
+{
+    "name": "Ring of Free Action", 
+    "category": "Ring", 
+    "rarity": "rare", 
+    "attunement": true, 
+    "desc": [
+        "While you wear this ring, difficult terrain doesn\u2019t cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be paralyzed or restrained."
+    ]
+}

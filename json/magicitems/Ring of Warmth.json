@@ -1,0 +1,9 @@
+{
+    "name": "Ring of Warmth", 
+    "category": "Ring", 
+    "rarity": "uncommon", 
+    "attunement": true, 
+    "desc": [
+        "While wearing this ring, you have resistance to cold damage. In addition, you and everything you wear and carry are unharmed by temperatures as low as \u221250 degrees Fahrenheit."
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Cube of Force", 
+    "category": "Wondrous item", 
+    "rarity": "rare", 
+    "attunement": true, 
+    "desc": [
+        "This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains 1d20 expended charges daily at dawn.", 
+        "You can use an action to press one of the cube\u2019s faces, expending a number of charges based on the chosen face, as shown in the Cube of Force Faces table. Each face has a different effect. If the cube has insufficient charges remaining, nothing happens. Otherwise, a barrier of invisible force springs into existence, forming a cube 15 feet on a side. The barrier is centered on you, moves with you, and lasts for 1 minute, until you use an action to press the cube\u2019s sixth face, or the cube runs out of charges. You can change the barrier\u2019s effect by pressing a different face of the cube and expending the requisite number of charges, resetting the duration.", 
+        "If your movement causes the barrier to come into contact with a solid object that can\u2019t pass through the cube, you can\u2019t move any closer to that object as long as the barrier remains.", 
+        {
+            "table": {
+                "Face": [
+                    "1", 
+                    "2", 
+                    "3", 
+                    "4", 
+                    "5", 
+                    "6"
+                ], 
+                "Charges": [
+                    "1", 
+                    "2", 
+                    "3", 
+                    "4", 
+                    "5", 
+                    "0"
+                ], 
+                "Effect": [
+                    "Gases, wind, and fog can\u2019t pass through the barrier.", 
+                    "Nonliving matter can\u2019t pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.", 
+                    "Living matter can\u2019t pass through the barrier.", 
+                    "Spell effects can\u2019t pass through the barrier.", 
+                    "Nothing can pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.", 
+                    "The barrier deactivates."
+                ]
+            }
+        }, 
+        "The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown in the table below.", 
+        {
+            "table": {
+                "Spell or Item": [
+                    "Disintegrate", 
+                    "Horn of blasting", 
+                    "Passwall", 
+                    "Prismatic spray", 
+                    "Wall of fire"
+                ], 
+                "Charges Lost": [
+                    "1d12", 
+                    "1d10", 
+                    "1d6", 
+                    "1d20", 
+                    "1d4"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Potion of Speed", 
+    "category": "Potion", 
+    "rarity": "very rare", 
+    "attunement": false, 
+    "desc": [
+        "When you drink this potion, you gain the effect of the *haste* spell for 1 minute (no concentration required). The potion\u2019s yellow fluid is streaked with black and swirls on its own."
+    ]
+}
